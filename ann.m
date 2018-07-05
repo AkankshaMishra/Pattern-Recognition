@@ -54,4 +54,4 @@ for i=1:test_size(1)
 end
 % computing accuracy
 accuracy = num_correct/test_size(1);
-disp(ann)
+disp(accuracy)
