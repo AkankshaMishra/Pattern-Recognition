@@ -1,4 +1,5 @@
 Dataset : MNIST
+http://yann.lecun.com/exdb/mnist/
 
 Techniques:
 1. K-Nearest Neighbour
